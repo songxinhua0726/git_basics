@@ -1,2 +1,3 @@
 a second file
 more changes
+by adding text simultaneously to the same document
