@@ -1,3 +1,4 @@
 a second file
-more changes
-by adding text simultaneously to the same document
+<<<<<<< HEAD
+let's create a conflict by adding text simultaneously to the same document
+~
